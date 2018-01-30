@@ -1,0 +1,42 @@
+body{
+
+	margin:0;
+	padding:0;
+}
+
+.app-body{
+	margin:25px;
+
+}
+
+
+
+table.table tr td.action a.btn{
+	cursor: pointer;
+	line-height: 0.25!important;
+	color:#fff;
+	padding:8px 6px;
+}
+table.table tr th{
+	background-color: #b2bec3;
+	border-right:1px solid #fff;
+}
+table.table tr td{
+
+	border-right:1px solid #fff;
+}
+
+table.table tr.color{
+	background-color: #dfe6e9;
+
+}
+
+.viewtable > table{
+	width:65%;
+	margin:0 auto;
+
+}
+.viewtable .nbg{
+
+	background-color: #fff;
+}
